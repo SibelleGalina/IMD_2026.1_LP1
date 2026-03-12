@@ -15,7 +15,7 @@ Para compilar e rodar os códigos, você precisará de:
 1.  Um compilador de C (Recomendado: **GCC** via MSYS2 no Windows ou nativo no Linux/macOS).
 2.  Um editor de código (Recomendado: **VS Code**).
 
-> ### Nota sobre Acentuação:
+> #### Nota sobre Acentuação:
 Os códigos utilizam macros de pré-processamento para garantir a exibição correta de caracteres especiais no terminal Windows (UTF-8) sem comprometer a compatibilidade com sistemas Linux/macOS.
 
 ## Como Rodar os Códigos
@@ -45,5 +45,5 @@ Caso utilize a extensão Code Runner:
 3. O resultado aparecerá diretamente no terminal integrado.
 
 
-
+#
 #### Desenvolvido por Sibelle Galina.
