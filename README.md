@@ -7,6 +7,7 @@ Este repositório contém os exercícios e projetos desenvolvidos durante a disc
 O projeto está organizado por pastas representando as aulas ou temas abordados:
 
 * **Aula 00_Termometro:** Exercícios de nivelamento.
+* **Avaliação Un01_Projeto Agência Espacial:** Sistema de gerenciamento em C++ com classes e vetores.
 
 ## Pré-requisitos
 
