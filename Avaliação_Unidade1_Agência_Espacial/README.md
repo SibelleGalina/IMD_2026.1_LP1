@@ -1,4 +1,4 @@
-# Projeto Agência Espacial Brasileira Digital - Gerenciamento de Missões
+# Projeto Agência Espacial Brasileira Digital
 
 Este projeto consiste em um sistema de gerenciamento de astronautas e voos espaciais, permitindo o controle completo desde o cadastro até a finalização (sucesso ou explosão) das missões.
 
