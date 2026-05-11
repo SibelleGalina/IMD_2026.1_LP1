@@ -14,22 +14,29 @@ Para compilar o projeto, utilize um compilador C++ (como o G++):
 
 ```bash
 g++ main.cpp -o agencia
+```
 
 ### Execução no Windows (PowerShell/CMD)
 
 O sistema foi configurado para suportar caracteres UTF-8 no terminal do Windows. Para rodar manualmente:
 
+```
 ./agencia
+```
 
 ### Testes Automatizados (O Diferencial)
 
 Para facilitar a correção e validar todos os fluxos do sistema (mensagens de erro e sucesso), incluí um arquivo de script de teste sequencial. Você pode rodar todos os comandos de uma vez usando o pipe:
 
 No PowerShell:
+```
 Get-Content teste_sequencial_total.txt | ./agencia
+```
 
 No CMD ou Linux:
+```
 ./agencia < teste_sequencial_total.txt
+```
 
 ---
 ### 🤖 Assistência no Desenvolvimento
