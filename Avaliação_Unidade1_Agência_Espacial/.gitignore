@@ -1,0 +1,10 @@
+# Executáveis (Windows e Linux)
+agencia
+agencia.exe
+
+# Arquivos de objetos e temporários de compilação
+*.o
+*.obj
+
+# Pastas de configuração do VS Code
+.vscode/
